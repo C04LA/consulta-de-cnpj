@@ -27,10 +27,10 @@ Para Windows também é fácil, apenas clique.
 #### obs: você precisa do python instalado. 
 
    
-* Python 
+Python 
 <a href="https://www.python.org/downloads/"> clique aqui para instalar o python
  
-* Windows
+Windows
 <a href="https://github.com/C04LA/cnpj/archive/refs/heads/main.zip" > clique aqui para baixar o programa
 
 ## Contato
