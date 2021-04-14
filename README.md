@@ -24,7 +24,7 @@ Instale o github em seu terminal
   ```
   
 Para Windows também é fácil, apenas clique. 
-obs: você precisa do python instalado. 
+#### obs: você precisa do python instalado. 
 
    
 * Python 
