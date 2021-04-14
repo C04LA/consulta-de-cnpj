@@ -28,10 +28,10 @@ Para Windows também é fácil, apenas clique.
 
    
 Python 
-<a href="https://www.python.org/downloads/"> clique aqui para instalar o python
+<a href="https://www.python.org/downloads/"> clique aqui para instalar o python!
  
 Windows
-<a href="https://github.com/C04LA/cnpj/archive/refs/heads/main.zip" > clique aqui para baixar o programa
+<a href="https://github.com/C04LA/cnpj/archive/refs/heads/main.zip" > clique aqui para baixar o programa!
 
 ## Contato
 
