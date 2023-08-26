@@ -35,6 +35,6 @@ Windows
 
 ## Contato
 
-Gabriel Stellato ( C04LA)  - [@bielzinhostell](https://twitter.com/bielzinhostell) - gabrielstellato120@gmail.com
+Gabriel Stellato ( C04LA)  - [@bielstellato](https://instagram.com/bielstellato) - gabrielstellato120@gmail.com
 
 Project Link: [https://github.com/C04LA/cnpj](https://github.com/C04LA/cnpj)
