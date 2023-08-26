@@ -1,5 +1,5 @@
 
-# 🔎 CONSULTA DE CNPJ
+# 🔎 CONSULTA DE CNPJ 🔎
 #### LEIA ANTES DE USAR 
 
 Para utilizar o programa, apenas digite 
