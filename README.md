@@ -34,7 +34,7 @@ Windows
 * <a href="https://github.com/C04LA/cnpj/archive/refs/heads/main.zip" > clique aqui para baixar o programa!
 
 Caso baixe para Windows, necessario a instalação do Winrrar. 
-* <a href="https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-623br.exe" > clique aqui para baixar o programa!
+* <a href="https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-623br.exe" > clique aqui para baixar o Winrrar!
 
 ## Contato
 
